@@ -1,0 +1,14 @@
+#define UP 328
+#define DOWN 336
+#define PAGEDOWN 337
+#define CTRLHOME 375
+#define CTRLEND 373
+#define HOME 327
+#define END 335
+#define LEFT 331
+#define RIGHT 333
+#define CR 13
+#define BS 8
+#define DEL 339
+#define ESC 27
+#define F1 315
