@@ -1,7 +1,8 @@
 # MasterMind
-I made console game - Masters of Mind game using only C language. Before you start follow all instructions from Readme
+I made console game - Masters of Mind game using only C language.<br/> Before you start follow all instructions from Readme<br/>
+<img src="https://user-images.githubusercontent.com/39196212/88028161-949ac700-cb38-11ea-9902-2604f5fe7729.JPG" > <br/>
 
-You want to try game. Just start MasterMind.exe
+You want to try game. Just start MasterMind.exe <br/>
 But if you want to edit code and modify game by your own, than follow some steps.
 
 1. Install compiler.</br>
